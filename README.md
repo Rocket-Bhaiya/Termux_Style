@@ -12,14 +12,14 @@ cd $HOME
 # clone this repository - 
 git clone https://github.com/Rocket-Bhaiya/Termux_Style.git
 
-# change to termux-style dir -
+# change to Termux_Style dir -
 cd Termux_Style
 
 ```
 
 ## Run
 
-Run `termux-style` & select the right option -
+Run `Termux_Style`
 
 ```bash
 $ bash Termux_Style.sh
