@@ -67,7 +67,7 @@ echo ""
 echo ""
 echo ""
 
-cd /data/data/com.termux/files/home/storage/shared/Termux_Style/Sysinfo_Customize
+cd /data/data/com.termux/files/home/Termux_Style/Sysinfo_Customize
 echo ""
 echo ""
 echo ""
@@ -153,7 +153,7 @@ echo ""
 echo ""
 echo ""
 
-cd /data/data/com.termux/files/home/storage/shared/Termux_Style/Hacker_Customize
+cd /data/data/com.termux/files/home/Termux_Style/Hacker_Customize
 echo ""
 echo ""
 echo ""
@@ -239,7 +239,7 @@ echo ""
 echo ""
 echo ""
 
-cd /data/data/com.termux/files/home/storage/shared/Termux_Style/Smiley
+cd /data/data/com.termux/files/home/Termux_Style/Smiley
 echo ""
 echo ""
 echo ""
@@ -325,7 +325,7 @@ echo ""
 echo ""
 echo ""
 
-cd /data/data/com.termux/files/home/storage/shared/Termux_Style/Kali_Linux
+cd /data/data/com.termux/files/home/Termux_Style/Kali_Linux
 echo ""
 echo ""
 echo ""
