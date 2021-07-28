@@ -1,7 +1,7 @@
 # Termux_Style
 
 
-## How to install
+## How to download
 
 Follow the steps below - 
 
