@@ -1,4 +1,4 @@
-### Termux_Style
+# Termux_Style
 
 
 ## How to install
